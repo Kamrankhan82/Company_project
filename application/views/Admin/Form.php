@@ -63,6 +63,7 @@
         </table>
         
         <input type="submit" name="submit">
+		<a href="<?php echo base_url();?>admin/price">Add Price</a>
         </form></center>
     </body>
 </html>
