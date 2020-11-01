@@ -38,6 +38,7 @@
 </table>
         
         <input type="submit" name="submit">
+		<a href="<?php echo base_url();?>admin">Home</a>
         </form></center>
     </body>
 </html>
